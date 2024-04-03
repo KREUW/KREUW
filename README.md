@@ -2,29 +2,17 @@
 </a> <a href="https://www.linkedin.com/in/kyle-r-whitney/">Cybersecurity Professional, Project Manager, Life-Long Learner</a>
 </h1>
 
-<h2> A little about me: </h2>
+ <h2> A little about me: </h2>
 
-<h2> Cybersecurity Projects: </h2>
+ <h2> Cybersecurity Projects: </h2>
 
-<h2> Certifications: </h2>
+ <h2> Certifications: </h2>
 
-<h3> 
-  
-  ![Static Badge](https://img.shields.io/badge/CompTIA_PenTest%2B%20-%20red) ![Static Badge](https://img.shields.io/badge/CompTIA_CySA%2B%20-%20red) ![Static Badge](https://img.shields.io/badge/CompTIA_Network%2B%20-%20red) ![Static Badge](https://img.shields.io/badge/CompTIA_A%2B%20-%20red) ![Static Badge](https://img.shields.io/badge/CompTIA_Cloud_Essential%2B%20-%20red) </h3>
-<h3> 
-  
-  ![Static Badge](https://img.shields.io/badge/PMI_Project_Management_Professional_(PMP)%20-%20blue)  ![Static Badge](https://img.shields.io/badge/PMI_Certified_Associate_in_Management_Professional_(CAPM)%20-%20darkorange)
- 
-  </h3>
-<h3>
-
-![Static Badge](https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner%20-%20black) ![Static Badge](https://img.shields.io/badge/ISC2_Certified_in_Cybersecurity_(CC)%20-%20green) ![Static Badge](https://img.shields.io/badge/LPI_Linux_Essentials%20-%20gold)
-![Static Badge](https://img.shields.io/badge/AXELOS_ITILv4_Foundation%20-%20black)
-
-
-
+   <h3> <img align="left" width="62px" src="https://github.com/KREUW/KREUW/assets/151568256/1f9c3650-e30e-4b75-8c2c-7f6d869a4cef" /> <img align="left" width="62px" src="https://github.com/KREUW/KREUW/assets/151568256/06a710a5-346f-4500-a7b9-ceedb5bf3a6d" /> <img align="left" width="62px" src="https://github.com/KREUW/KREUW/assets/151568256/0c792b71-0935-461b-ab3b-4a24192c0874" /> 
+<br>
 </h3>
 
+<br>
 
 
 <h2> Education: </h2>
