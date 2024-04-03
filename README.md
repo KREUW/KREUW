@@ -1,16 +1,17 @@
-# Hi, I'm Kyle!
+# Hi, I'm Kyle Whitney! <br> [Cybersecurity Professional, Project Manager, and Life-Long Learner](https://www.linkedin.com/in/kyle-r-whitney/)
 
-[Cybersecurity Professional, Project Manager, Life-Long Learner](https://www.linkedin.com/in/kyle-r-whitney/)
+## About Me
 
-## A little about me:
-I'm Kyle Whitney, with over a decade of experience in the U.S. Army focusing on information security. My expertise centers around securing communication networks and developing strategic security policies. Currently, I'm furthering my education with an M.S. in Cybersecurity and Information Assurance, building on my B.S. in Information Technology. My background is a testament to my dedication to cybersecurity and my commitment to continuous professional development. 
+With over a decade of experience in the U.S. Army focusing on information security, I have honed my expertise in securing communication networks and developing strategic security policies. I am currently advancing my education with an M.S. in Cybersecurity and Information Assurance, building upon my B.S. in Information Technology. My dedication to cybersecurity and commitment to continuous professional development are the cornerstones of my career.
 
-## Goals:
-I aim to transition into a cybersecurity role, focusing on penetration testing and defense, leveraging my strategic planning skills and technical expertise. My goals include engaging in continuous learning and hands-on experiences to stay at the forefront of cybersecurity, aspiring to leadership positions to guide initiatives that bolster digital security.
+## Goals
+
+I aim to transition into a specialized cybersecurity role, focusing on penetration testing and defense. My strategic planning skills and technical expertise drive my goals to:
+
+- Engage in continuous learning and hands-on experiences.
 - Secure a specialized role in cybersecurity.
-- Utilize my background to contribute to cybersecurity innovations.
-- Commit to continuous learning and practical experience.
-- Aim for leadership to drive digital security enhancements.
+- Utilize my background in contributions to cybersecurity innovations.
+- Aspire to leadership positions to guide digital security enhancements.
 
 ## Cybersecurity Projects:
 <!-- Details about my projects here -->
@@ -39,15 +40,10 @@ I aim to transition into a cybersecurity role, focusing on penetration testing a
 <br/>
 
 ## Education:
-<div>
-    <img src="https://github.com/KREUW/KREUW/assets/151568256/168c0e44-da54-4f30-8f4d-015c5943acaa" width="120" alt="LPI" />
-    Masters of Science in Cybersecurity and Information Assurance - Projected July, 2024! 
-</div>
+<img src="https://github.com/KREUW/KREUW/assets/151568256/168c0e44-da54-4f30-8f4d-015c5943acaa" width="120" alt="LPI" /> - **Masters of Science in Cybersecurity and Information Assurance** - Projected Completion: July 2024! <BR> 
+<img src="https://github.com/KREUW/KREUW/assets/151568256/168c0e44-da54-4f30-8f4d-015c5943acaa" width="120" alt="LPI" /> - **Bachelor of Science in Information Technology** - Completed in 2023
 
-<div>       
-    <img src="https://github.com/KREUW/KREUW/assets/151568256/168c0e44-da54-4f30-8f4d-015c5943acaa" width="120" alt="LPI" />
-    Bachlors of Science in Information Technology - 2023  
-</div>
+
 
 ## Connect with me:
 <a href="https://linkedin.com/in/kyle-r-whitney">
