@@ -15,6 +15,8 @@ I aim to transition into a specialized cybersecurity role, focusing on penetrati
 
 ## Cybersecurity Projects:
 <!-- Details about my projects here -->
+Check out my [Keylogger Project](https://github.com/KREUW/Keylogger-in-Python/blob/main/README.md#keylogger) for an example of a Python application that captures keystrokes and sends them via email.
+
 
 ## Certifications:
 <!-- You can still use HTML for images if you need specific styling not available in Markdown -->
