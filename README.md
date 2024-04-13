@@ -13,9 +13,25 @@ I aim to transition into a specialized cybersecurity role, focusing on penetrati
 - Utilize my background in contributions to cybersecurity innovations.
 - Aspire to leadership positions to guide digital security enhancements.
 
-## Cybersecurity Projects:
-<!-- Details about my projects here -->
-Check out my [Keylogger Project](https://github.com/KREUW/Keylogger-in-Python/blob/main/README.md#keylogger) for an example of a Python application that captures keystrokes and sends them via email.
+# Cybersecurity Projects
+
+This section showcases some of my significant contributions to cybersecurity, including coding solutions and Capture The Flag (CTF) challenge completions. These projects demonstrate my practical security problem-solving skills and software development capabilities.
+
+## Coding Projects
+
+### Keylogger in Python
+
+- **Project Overview**: A Python application designed to capture keystrokes securely and send them via email. This project helps understand the basics of input capturing and network data transmission in Python.
+- **Skills Demonstrated**: Python programming, automation, and basic cybersecurity principles.
+- **View Project**: [Keylogger GitHub Repository](https://github.com/KREUW/Keylogger-in-Python/blob/main/README.md#keylogger)
+
+## Capture The Flag (CTF) Challenges
+
+### DC1 CTF Challenge Walkthrough
+
+- **Project Overview**: A comprehensive walkthrough of the DC1 CTF challenge, conducted under the Penetration Testing Execution Standard (PTES). This challenge is designed to simulate real-world penetration testing scenarios, enhancing skills in identifying vulnerabilities, exploiting them, and securing the system.
+- **Skills Demonstrated**: Vulnerability analysis, exploitation techniques, post-exploitation maneuvers, and security hardening.
+- **View Walkthrough**: [DC1 CTF Challenge on GitHub](https://github.com/KREUW/DC1-CTF)
 
 
 ## Certifications:
