@@ -1,4 +1,4 @@
-# Hi, I'm Kyle Whitney! <br> [Cybersecurity Professional, Project Manager, and Life-Long Learner](https://www.linkedin.com/in/kyle-r-whitney/)
+# Hi, I'm Kyle! <br> [Cybersecurity Professional, Project Manager, and Life-Long Learner](https://www.linkedin.com/in/kyle-r-whitney/)
 
 ## About Me
 
