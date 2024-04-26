@@ -37,7 +37,7 @@ This section showcases some of my significant contributions to cybersecurity, in
 
 - **Project Overview**: A detailed penetration test executed to uncover security weaknesses using a suite of tools. This test employed Nmap for network reconnaissance, Gobuster for directory probing, Burp Suite for intercepting traffic, Hydra and John the Ripper for cracking credentials, a modified PHP Reverse Shell for remote execution, and Netcat for persistent network access.
 - **Skills Demonstrated**: Network reconnaissance, vulnerability discovery, credential cracking, remote command execution, and network listening.
-- **View Walkthrough**: [Vulnerable Machine Penetration Test](https://github.com/KREUW/Vulnerable-Machine-Penetration-Test)
+- **View Walkthrough**: [Vulnerable Machine Penetration Test][(https://github.com/KREUW/Mr-Robot-CTF)
 
 
 
