@@ -27,17 +27,17 @@ This section showcases some of my significant contributions to cybersecurity, in
 
 ### Capture The Flag (CTF) Challenges
 
-#### DC1 CTF Challenge 
+#### DC1 endopoint CTF  
 
 - **Project Overview**: A comprehensive walkthrough of the DC1 CTF challenge, conducted under the Penetration Testing Execution Standard (PTES). This challenge is designed to simulate real-world penetration testing scenarios, enhancing skills in identifying vulnerabilities, exploiting them, and securing the system.
 - **Skills Demonstrated**: Vulnerability analysis, exploitation techniques, post-exploitation maneuvers, and security hardening.
 - **View Walkthrough**: [DC1 CTF Challenge](https://github.com/KREUW/DC1-CTF)
 
-#### Vulnerable Machine Penetration Test
+#### Mr Robot web app CTF
 
 - **Project Overview**: A detailed penetration test executed to uncover security weaknesses using a suite of tools. This test employed Nmap for network reconnaissance, Gobuster for directory probing, Burp Suite for intercepting traffic, Hydra and John the Ripper for cracking credentials, a modified PHP Reverse Shell for remote execution, and Netcat for persistent network access.
 - **Skills Demonstrated**: Network reconnaissance, vulnerability discovery, credential cracking, remote command execution, and network listening.
-- **View Walkthrough**: [Vulnerable Machine Penetration Test][(https://github.com/KREUW/Mr-Robot-CTF)
+- **View Walkthrough**: [Mr Robot CTF](https://github.com/KREUW/Mr-Robot-CTF)
 
 
 
